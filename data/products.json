@@ -1,0 +1,14 @@
+[
+  {
+    "id": "4c4b8ba4-fc7e-4299-b2d3-24d1d4320017",
+    "title": "Toyota",
+    "image": "https://global.toyota/pages/news/images/2026/05/28/1330_hilux/001.jpg",
+    "price": "10000"
+  },
+  {
+    "id": "b141a533-b63d-4a9b-a2b8-85c8f4295f88",
+    "title": "Mazda",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2024-mazda-mx-5-miata-red-in-motion-651eccb1b25d8.jpg?crop=0.484xw:0.409xh;0.208xw,0.380xh&resize=1200:*",
+    "price": "13000"
+  }
+]
